@@ -1,0 +1,9 @@
+based on yesterday top gainers and losers
+
+based on today top losers and gainers
+
+steps to take
+for top 10 stocks calculate simple 2, 3, 4, 5 low in a row and then buy
+for all sp 500 try this for 3,4,5,6
+adjust based on current rate
+try it for different years

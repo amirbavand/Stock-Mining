@@ -1,0 +1,19 @@
+virtual enviroment manament link
+https://realpython.com/python-virtual-environments-a-primer/
+
+create virtual enviroment mac osx
+python3 -m venv venv
+
+activate virtual enviroment
+source venv/bin/activate
+
+deactivate virtual enviroment
+deactivate
+
+install requirements
+pip install -r requirements.txt
+
+
+freeze requirements
+pip freeze > requirements.txt
+
